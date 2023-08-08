@@ -1,0 +1,17 @@
+﻿  WindowsProject3.cpp
+C:\Users\Maxx\Desktop\Kursach\WindowsProject3\WindowsProject3\WindowsProject3.cpp(61,7): warning C4101: redir: неиспользованная локальная переменная
+C:\Users\Maxx\Desktop\Kursach\WindowsProject3\WindowsProject3\WindowsProject3.cpp(62,7): warning C4101: h: неиспользованная локальная переменная
+C:\Users\Maxx\Desktop\Kursach\WindowsProject3\WindowsProject3\WindowsProject3.cpp(149,9): warning C4101: W: неиспользованная локальная переменная
+C:\Users\Maxx\Desktop\Kursach\WindowsProject3\WindowsProject3\WindowsProject3.cpp(144,7): warning C4101: h: неиспользованная локальная переменная
+C:\Users\Maxx\Desktop\Kursach\WindowsProject3\WindowsProject3\WindowsProject3.cpp(143,7): warning C4101: r: неиспользованная локальная переменная
+C:\Users\Maxx\Desktop\Kursach\WindowsProject3\WindowsProject3\WindowsProject3.cpp(280,9): warning C4101: redir: неиспользованная локальная переменная
+C:\Users\Maxx\Desktop\Kursach\WindowsProject3\WindowsProject3\WindowsProject3.cpp(333,9): warning C4101: redir: неиспользованная локальная переменная
+C:\Users\Maxx\Desktop\Kursach\WindowsProject3\WindowsProject3\WindowsProject3.cpp(334,9): warning C4101: h: неиспользованная локальная переменная
+C:\Users\Maxx\Desktop\Kursach\WindowsProject3\WindowsProject3\WindowsProject3.cpp(382,9): warning C4101: redir: неиспользованная локальная переменная
+C:\Users\Maxx\Desktop\Kursach\WindowsProject3\WindowsProject3\WindowsProject3.cpp(383,9): warning C4101: h: неиспользованная локальная переменная
+C:\Users\Maxx\Desktop\Kursach\WindowsProject3\WindowsProject3\WindowsProject3.cpp(488,11): warning C4101: W: неиспользованная локальная переменная
+C:\Users\Maxx\Desktop\Kursach\WindowsProject3\WindowsProject3\WindowsProject3.cpp(487,10): warning C4101: EE: неиспользованная локальная переменная
+C:\Users\Maxx\Desktop\Kursach\WindowsProject3\WindowsProject3\WindowsProject3.cpp(485,9): warning C4101: h: неиспользованная локальная переменная
+C:\Users\Maxx\Desktop\Kursach\WindowsProject3\WindowsProject3\WindowsProject3.cpp(484,9): warning C4101: r: неиспользованная локальная переменная
+C:\Users\Maxx\Desktop\Kursach\WindowsProject3\WindowsProject3\WindowsProject3.cpp(522,9): warning C4101: redir: неиспользованная локальная переменная
+  WindowsProject3.vcxproj -> C:\Users\Maxx\Desktop\Kursach\WindowsProject3\Debug\WindowsProject3.exe
